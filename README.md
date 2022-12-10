@@ -1,2 +1,1 @@
-# TechProg-lab5
-5 lab. of programming technologies
+# Lab_5 Django 4.1.4
